@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohdbakheet
-- 👀 I’m interested in mathematical biology
+- 👀 I’m interested in mathematical biology and machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on "economic impact of covid-19 on Sudan"
 - 📫 How to reach me moham.bakheet@gmail.com
