@@ -2,7 +2,6 @@
 - Currently a postdoc associate at UGA
 - 👀 I’m interested in mathematical biology and machine learning
 - 🌱 I’m currently working on the modelling of host-multipathogen systems
-- 💞️ I’m looking to collaborate on "Modelling economic impact of covid-19 in Sudan"
 - 📫 How to reach me moham.bakheet@gmail.com
 
 <!---
